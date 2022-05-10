@@ -1,0 +1,47 @@
+
+header{
+    background-color: rgba(0, 0, 0, 0);
+    width: 60%;
+    position:absolute;
+    z-index: 999;
+    display: flex ;
+    justify-content:space-between;
+    align-items:center;
+    padding:5px 20px ;
+    margin-left: 8cm;
+
+} 
+.logo{
+    text-decoration: none;
+    color:gainsboro;
+    font-weight: 700;
+    font-size: 1.8cm;
+}
+.navigation a{
+color: gainsboro;
+text-decoration: none;
+font-size: 1cm;
+font-weight: 500;
+padding-left: 30px;
+
+}
+.navigation a:hover{
+    color:rgb(36, 36, 36) ;
+}
+.login-form{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.612);
+    padding:60px;
+     color: aliceblue;
+}
+.login-form h1{
+    
+font-size:40px;
+margin-bottom: 30px;
+
+
+}

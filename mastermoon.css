@@ -1,0 +1,172 @@
+section{
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.448);
+    border: 1.5cm;
+    border: inset;
+    margin: 20%;
+    height: 50cm;
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0);
+    width: 60%;
+    position:absolute;
+    z-index: 999;
+    display: flex ;
+    justify-content:space-between;
+    align-items:center;
+    padding:5px 20px ;
+    margin-left: 8cm;
+
+} 
+.logo{
+    text-decoration: none;
+    color:gainsboro;
+    font-weight: 700;
+    font-size: 1.8cm;
+}
+.navigation a{
+color: gainsboro;
+text-decoration: none;
+font-size: 1cm;
+font-weight: 500;
+padding-left: 30px;
+
+}
+.navigation a:hover{
+    color:rgb(36, 36, 36) ;
+}
+.adver{
+    margin-top: 4cm;
+    display: inline-block;
+}
+.text{
+margin-left:15cm ;
+margin-top: -520px;
+margin-left: 410px;
+width: 10cm;
+}
+
+.text h1{
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+    background-color:seashell;
+}
+.text h4{
+        font-size: x-large;
+        font-family: cursive;
+        background-color: seashell;
+}
+.text b{
+    font-size: medium;
+    font-family: cursive;
+   background-color: seashell;
+}
+.video{
+    margin-top: 7cm;
+    background-color:rgba(12, 10, 8, 0.066);
+}
+
+.video h1 {
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+    background-color:seashell;
+}
+.videomoon
+{
+    margin-left: 2cm;
+}
+.text2{
+    margin-left:410px;
+    width: 10cm;
+}
+
+.text2 h1{
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+    background-color:seashell;
+}
+.text2 b{
+    font-size: medium;
+    font-family: cursive;
+   background-color: seashell;
+}
+
+.series{
+   margin-top: 1.5cm;
+}
+
+
+.series h1{
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+    background-color:seashell;
+
+}
+.seriesimage{
+
+margin-top: 1cm;
+background-color: rgba(0, 0, 0, 0.238);
+
+}
+.seriesimage a{
+    margin-top: 30cm;
+    margin-left: -2cm;
+}
+.imageee{
+    margin-bottom: 0.8cm;
+    display: inline-block;
+}
+button{
+    font-family: ui-monospace;
+    font-size: medium;
+    
+    background-color:rgba(255, 255, 255, 0.455);
+    width: 100px;
+    margin-left: -0.7cm;
+    display: inline-block;
+}
+.actors h1{
+    font-size: xx-large;
+    font-family: fantasy;
+    text-transform: uppercase;
+    background-color:seashell;
+    margin-top: 1.5cm;
+}
+.actors{
+    background-color:rgba(0, 0, 0, 0.651) ;
+    height: 6cm;
+}
+.gg{
+    margin-top: 1cm;
+    display: inline-block;
+  
+}
+.img2{
+    margin-left: 4cm;
+    margin-top: -3cm;
+    color: aliceblue;
+}
+.img3{
+    margin-left: 8cm;
+    margin-top: -4cm;
+    color: aliceblue;
+}
+.img4{
+    margin-left: 12cm;
+    margin-top: -4cm;
+    color: aliceblue;
+}
+.img5{
+    margin-left: 17cm;
+    margin-top: -4cm;
+    color: aliceblue;
+}
+.img1{
+    color: aliceblue;
+
+}
